@@ -1,0 +1,13 @@
+#!/bin/sh
+# Runs as root before the payload is installed.
+# Migrates from the earlier DeskJet-2130-only package: its PPD lived directly in
+# Resources/ and would show up twice next to the new HPLIP/ copy.
+log() { echo "hplip-preinstall: $*"; }   # ends up in /var/log/install.log
+
+OLD_PPD="/Library/Printers/PPDs/Contents/Resources/HP DeskJet 2130 HPLIP.ppd.gz"
+if [ -f "$OLD_PPD" ]; then
+    log "removing old single-model PPD"
+    rm -f "$OLD_PPD"
+fi
+/usr/sbin/pkgutil --forget local.hplip.deskjet2130 >/dev/null 2>&1 && log "forgot old package receipt"
+exit 0

@@ -1,0 +1,16 @@
+--- a/scan/sane/OrbliteScan/MacCommon.h
++++ b/scan/sane/OrbliteScan/MacCommon.h
+@@ -1,9 +1,12 @@
+ #ifndef H_MacCommon
+ #define H_MacCommon
+ 
+-#ifndef __linux__
++#if !defined(__linux__) && !defined(HPLIP_NO_CFPLUGIN)
++/* CFPlugInCOM.h clashes with hpip.h's Windows-style ULONG typedef. */
+ #include <CoreFoundation/CFPlugInCOM.h>
+ #define __CFPlugInCOM_Included__
++#elif defined(HPLIP_NO_CFPLUGIN)
++#include <MacTypes.h>
+ #endif
+ 
+ #ifdef __linux__

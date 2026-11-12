@@ -1,0 +1,52 @@
+--- a/prnt/hpcups/EncapsulatorFactory.cpp
++++ b/prnt/hpcups/EncapsulatorFactory.cpp
+@@ -31,7 +31,9 @@
+ #include "CommonDefinitions.h"
+ #include "EncapsulatorFactory.h"
+ #include "Encapsulator.h"
++#ifndef HPCUPS_NO_JPEG
+ #include "Hbpl1.h"
++#endif
+ #include "Pcl3.h"
+ #include "Pcl3Gui.h"
+ #include "Pcl3Gui2.h"
+@@ -40,8 +42,10 @@
+ #include "LJFastRaster.h"
+ #include "LJZjStream.h"
+ #include "LJZxStream.h"
++#ifndef HPCUPS_NO_JPEG
+ #include "QuickConnect.h"
+ #include "LJJetReady.h"
++#endif
+ #include "Lidil.h"
+ #include <string.h>
+ 
+@@ -51,10 +55,12 @@
+         return NULL;
+     }
+ 
++#ifndef HPCUPS_NO_JPEG /* hbpl1 needs genPCLm, which needs libjpeg */
+     if (!strcmp (encap_tech, "hbpl1"))
+     {
+         return new Hbpl1();
+     }
++#endif
+ 
+     if (!strcmp (encap_tech, "pcl3"))
+     {
+@@ -88,6 +94,7 @@
+     {
+         return new LJZxStream();
+     }
++#ifndef HPCUPS_NO_JPEG
+     if (!strcmp (encap_tech, "quickconnect"))
+     {
+         return new QuickConnect();
+@@ -96,6 +103,7 @@
+     {
+         return new LJJetReady();
+     }
++#endif /* HPCUPS_NO_JPEG */
+     if (!strcmp (encap_tech, "lidil"))
+     {
+         return new Lidil();

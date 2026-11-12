@@ -1,0 +1,762 @@
+Apollo 2100, hpcups 3.26.6
+Apollo 2150, hpcups 3.26.6
+Apollo 2200, hpcups 3.26.6
+Apollo 2500, hpcups 3.26.6
+Apollo 2600, hpcups 3.26.6
+Apollo 2650, hpcups 3.26.6
+Apollo p2000-u, hpcups 3.26.6
+Apollo p2250, hpcups 3.26.6
+HP 2000c, hpcups 3.26.6
+HP 2500c, hpcups 3.26.6
+HP 910, hpcups 3.26.6
+HP 915, hpcups 3.26.6
+HP Amp, hpcups 3.26.6
+HP Business Inkjet 1000, hpcups 3.26.6
+HP Business Inkjet 1100, hpcups 3.26.6
+HP Business Inkjet 1200, hpcups 3.26.6
+HP Business Inkjet 2200, hpcups 3.26.6
+HP Business Inkjet 2230, hpcups 3.26.6
+HP Business Inkjet 2250 pcl3, hpcups 3.26.6
+HP Business Inkjet 2280 pcl3, hpcups 3.26.6
+HP Business Inkjet 2300 pcl3, hpcups 3.26.6
+HP Business Inkjet 2600 pcl3, hpcups 3.26.6
+HP Business Inkjet 2800 pcl3, hpcups 3.26.6
+HP Business Inkjet 3000 pcl3, hpcups 3.26.6
+HP Color Inkjet Printer cp1700, hpcups 3.26.6
+HP Color LaserJet 2500 Series, hpcups 3.26.6
+HP Color LaserJet 3000 pcl3, hpcups 3.26.6
+HP Color LaserJet 3700 pcl3, hpcups 3.26.6
+HP Color LaserJet 3700n, hpcups 3.26.6
+HP Color LaserJet 3800 pcl3, hpcups 3.26.6
+HP Color LaserJet 4500 pcl3, hpcups 3.26.6
+HP Color LaserJet 4550 pcl3, hpcups 3.26.6
+HP Color LaserJet 4600 pcl3, hpcups 3.26.6
+HP Color LaserJet 4610 pcl3, hpcups 3.26.6
+HP Color LaserJet 4650 pcl3, hpcups 3.26.6
+HP Color LaserJet 4700 pcl3, hpcups 3.26.6
+HP Color LaserJet 4730mfp pcl3, hpcups 3.26.6
+HP Color LaserJet 5, hpcups 3.26.6
+HP Color LaserJet 5500 pcl3, hpcups 3.26.6
+HP Color LaserJet 5550 pcl3, hpcups 3.26.6
+HP Color LaserJet 5m pcl3, hpcups 3.26.6
+HP Color LaserJet 8500 pcl3, hpcups 3.26.6
+HP Color LaserJet 8550 pcl3, hpcups 3.26.6
+HP Color LaserJet 9500 pcl3, hpcups 3.26.6
+HP Color LaserJet cm1312 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm1312nfi MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm2320 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm2320fxi MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm2320n MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm2320nf MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm3530 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm4540 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm4730 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm6030 MFP pcl3, hpcups 3.26.6
+HP Color LaserJet cm6040 MFP, hpcups 3.26.6
+HP Color LaserJet cm6049 MFP, hpcups 3.26.6
+HP Color LaserJet cp1514n pcl3, hpcups 3.26.6
+HP Color LaserJet cp1515n pcl3, hpcups 3.26.6
+HP Color LaserJet cp1518ni pcl3, hpcups 3.26.6
+HP Color LaserJet cp2025 pcl3, hpcups 3.26.6
+HP Color LaserJet cp2025dn pcl3, hpcups 3.26.6
+HP Color LaserJet cp2025n pcl3, hpcups 3.26.6
+HP Color LaserJet cp2025x pcl3, hpcups 3.26.6
+HP Color LaserJet cp3505 pcl3, hpcups 3.26.6
+HP Color LaserJet cp3525 pcl3, hpcups 3.26.6
+HP Color LaserJet cp4005 pcl3, hpcups 3.26.6
+HP Color LaserJet cp4020 Series pcl3, hpcups 3.26.6
+HP Color LaserJet cp4520 Series pcl3, hpcups 3.26.6
+HP Color LaserJet cp5225 pcl3, hpcups 3.26.6
+HP Color LaserJet cp5225dn pcl3, hpcups 3.26.6
+HP Color LaserJet cp5225n pcl3, hpcups 3.26.6
+HP Color LaserJet cp5520 Series pcl3, hpcups 3.26.6
+HP Color LaserJet cp6015 pcl3, hpcups 3.26.6
+HP cp1160, hpcups 3.26.6
+HP Deskjet 1000 j110 Series, hpcups 3.26.6
+HP Deskjet 1010 Series, hpcups 3.26.6
+HP Deskjet 1050 j410 Series, hpcups 3.26.6
+HP Deskjet 1100, hpcups 3.26.6
+HP Deskjet 1110 Series, hpcups 3.26.6
+HP Deskjet 1120, hpcups 3.26.6
+HP Deskjet 1125, hpcups 3.26.6
+HP Deskjet 1200 Series, hpcups 3.26.6
+HP Deskjet 1200c, hpcups 3.26.6
+HP Deskjet 1220c, hpcups 3.26.6
+HP Deskjet 1280, hpcups 3.26.6
+HP Deskjet 1510 Series, hpcups 3.26.6
+HP Deskjet 1600c, hpcups 3.26.6
+HP Deskjet 1600cm, hpcups 3.26.6
+HP Deskjet 1600cn, hpcups 3.26.6
+HP Deskjet 2000 j210 Series, hpcups 3.26.6
+HP Deskjet 2020 Series, hpcups 3.26.6
+HP Deskjet 2050 j510 Series, hpcups 3.26.6
+HP Deskjet 2130 Series, hpcups 3.26.6
+HP Deskjet 2200 Series, hpcups 3.26.6
+HP Deskjet 2300 Series, hpcups 3.26.6
+HP Deskjet 2510 Series, hpcups 3.26.6
+HP Deskjet 2520 Series, hpcups 3.26.6
+HP Deskjet 2540 Series, hpcups 3.26.6
+HP Deskjet 2600 Series, hpcups 3.26.6
+HP Deskjet 2640 Series, hpcups 3.26.6
+HP Deskjet 2700 Series, hpcups 3.26.6
+HP Deskjet 3000 j310 Series, hpcups 3.26.6
+HP Deskjet 3050 j610 Series, hpcups 3.26.6
+HP Deskjet 3050a j611 Series, hpcups 3.26.6
+HP Deskjet 3070 b611 Series, hpcups 3.26.6
+HP Deskjet 3320, hpcups 3.26.6
+HP Deskjet 3325, hpcups 3.26.6
+HP Deskjet 3420, hpcups 3.26.6
+HP Deskjet 3425, hpcups 3.26.6
+HP Deskjet 3450, hpcups 3.26.6
+HP Deskjet 350, hpcups 3.26.6
+HP Deskjet 3500, hpcups 3.26.6
+HP Deskjet 3510 Series, hpcups 3.26.6
+HP Deskjet 3520 Series, hpcups 3.26.6
+HP Deskjet 3540 Series, hpcups 3.26.6
+HP Deskjet 3550, hpcups 3.26.6
+HP Deskjet 3600, hpcups 3.26.6
+HP Deskjet 3630 Series, hpcups 3.26.6
+HP Deskjet 3650, hpcups 3.26.6
+HP Deskjet 3700 Series, hpcups 3.26.6
+HP Deskjet 3740, hpcups 3.26.6
+HP Deskjet 3810, hpcups 3.26.6
+HP Deskjet 3816, hpcups 3.26.6
+HP Deskjet 3819, hpcups 3.26.6
+HP Deskjet 3820, hpcups 3.26.6
+HP Deskjet 3822, hpcups 3.26.6
+HP Deskjet 3830 Series, hpcups 3.26.6
+HP Deskjet 3840, hpcups 3.26.6
+HP Deskjet 3870, hpcups 3.26.6
+HP Deskjet 3900, hpcups 3.26.6
+HP Deskjet 3910, hpcups 3.26.6
+HP Deskjet 3920, hpcups 3.26.6
+HP Deskjet 3940, hpcups 3.26.6
+HP Deskjet 400, hpcups 3.26.6
+HP Deskjet 400l, hpcups 3.26.6
+HP Deskjet 4100 Series, hpcups 3.26.6
+HP Deskjet 450, hpcups 3.26.6
+HP Deskjet 4510 Series, hpcups 3.26.6
+HP Deskjet 4530 Series, hpcups 3.26.6
+HP Deskjet 460, hpcups 3.26.6
+HP Deskjet 4610 Series, hpcups 3.26.6
+HP Deskjet 4620 Series, hpcups 3.26.6
+HP Deskjet 4640 Series, hpcups 3.26.6
+HP Deskjet 4670 Series, hpcups 3.26.6
+HP Deskjet 4720 Series, hpcups 3.26.6
+HP Deskjet 4800 Series, hpcups 3.26.6
+HP Deskjet 500, hpcups 3.26.6
+HP Deskjet 5000 Series, hpcups 3.26.6
+HP Deskjet 500c, hpcups 3.26.6
+HP Deskjet 505j, hpcups 3.26.6
+HP Deskjet 510, hpcups 3.26.6
+HP Deskjet 5100, hpcups 3.26.6
+HP Deskjet 520, hpcups 3.26.6
+HP Deskjet 5200 Series, hpcups 3.26.6
+HP Deskjet 540, hpcups 3.26.6
+HP Deskjet 5400 Series, hpcups 3.26.6
+HP Deskjet 550c, hpcups 3.26.6
+HP Deskjet 5520 Series, hpcups 3.26.6
+HP Deskjet 5550, hpcups 3.26.6
+HP Deskjet 5551, hpcups 3.26.6
+HP Deskjet 5552, hpcups 3.26.6
+HP Deskjet 5570 Series, hpcups 3.26.6
+HP Deskjet 5600, hpcups 3.26.6
+HP Deskjet 5640 Series, hpcups 3.26.6
+HP Deskjet 5650, hpcups 3.26.6
+HP Deskjet 5652, hpcups 3.26.6
+HP Deskjet 5700, hpcups 3.26.6
+HP Deskjet 5730 Series, hpcups 3.26.6
+HP Deskjet 5800, hpcups 3.26.6
+HP Deskjet 5810 Series, hpcups 3.26.6
+HP Deskjet 5820 Series, hpcups 3.26.6
+HP Deskjet 5850, hpcups 3.26.6
+HP Deskjet 5900 Series, hpcups 3.26.6
+HP Deskjet 600, hpcups 3.26.6
+HP Deskjet 610c, hpcups 3.26.6
+HP Deskjet 610cl, hpcups 3.26.6
+HP Deskjet 6120, hpcups 3.26.6
+HP Deskjet 6122, hpcups 3.26.6
+HP Deskjet 6127, hpcups 3.26.6
+HP Deskjet 612c, hpcups 3.26.6
+HP Deskjet 630c, hpcups 3.26.6
+HP Deskjet 632c, hpcups 3.26.6
+HP Deskjet 640c, hpcups 3.26.6
+HP Deskjet 648c, hpcups 3.26.6
+HP Deskjet 6500, hpcups 3.26.6
+HP Deskjet 6520 Series, hpcups 3.26.6
+HP Deskjet 656c, hpcups 3.26.6
+HP Deskjet 660, hpcups 3.26.6
+HP Deskjet 6600, hpcups 3.26.6
+HP Deskjet 670, hpcups 3.26.6
+HP Deskjet 670c, hpcups 3.26.6
+HP Deskjet 670tv, hpcups 3.26.6
+HP Deskjet 672c, hpcups 3.26.6
+HP Deskjet 680, hpcups 3.26.6
+HP Deskjet 6800, hpcups 3.26.6
+HP Deskjet 682, hpcups 3.26.6
+HP Deskjet 690c, hpcups 3.26.6
+HP Deskjet 692, hpcups 3.26.6
+HP Deskjet 693, hpcups 3.26.6
+HP Deskjet 694, hpcups 3.26.6
+HP Deskjet 6940 Series, hpcups 3.26.6
+HP Deskjet 695, hpcups 3.26.6
+HP Deskjet 697, hpcups 3.26.6
+HP Deskjet 6980 Series, hpcups 3.26.6
+HP Deskjet 810c, hpcups 3.26.6
+HP Deskjet 812c, hpcups 3.26.6
+HP Deskjet 815c, hpcups 3.26.6
+HP Deskjet 816c, hpcups 3.26.6
+HP Deskjet 825c, hpcups 3.26.6
+HP Deskjet 830c, hpcups 3.26.6
+HP Deskjet 832c, hpcups 3.26.6
+HP Deskjet 840c, hpcups 3.26.6
+HP Deskjet 841c, hpcups 3.26.6
+HP Deskjet 842c, hpcups 3.26.6
+HP Deskjet 843c, hpcups 3.26.6
+HP Deskjet 845c, hpcups 3.26.6
+HP Deskjet 850c, hpcups 3.26.6
+HP Deskjet 855c, hpcups 3.26.6
+HP Deskjet 870c, hpcups 3.26.6
+HP Deskjet 880c, hpcups 3.26.6
+HP Deskjet 882c, hpcups 3.26.6
+HP Deskjet 890c, hpcups 3.26.6
+HP Deskjet 895c, hpcups 3.26.6
+HP Deskjet 916c, hpcups 3.26.6
+HP Deskjet 920c, hpcups 3.26.6
+HP Deskjet 9300, hpcups 3.26.6
+HP Deskjet 930c, hpcups 3.26.6
+HP Deskjet 932c, hpcups 3.26.6
+HP Deskjet 933c, hpcups 3.26.6
+HP Deskjet 934c, hpcups 3.26.6
+HP Deskjet 935c, hpcups 3.26.6
+HP Deskjet 940c, hpcups 3.26.6
+HP Deskjet 948c, hpcups 3.26.6
+HP Deskjet 950c, hpcups 3.26.6
+HP Deskjet 952c, hpcups 3.26.6
+HP Deskjet 955c, hpcups 3.26.6
+HP Deskjet 957c, hpcups 3.26.6
+HP Deskjet 959c, hpcups 3.26.6
+HP Deskjet 9600, hpcups 3.26.6
+HP Deskjet 960c, hpcups 3.26.6
+HP Deskjet 970c, hpcups 3.26.6
+HP Deskjet 975c, hpcups 3.26.6
+HP Deskjet 9800, hpcups 3.26.6
+HP Deskjet 980c, hpcups 3.26.6
+HP Deskjet 990c, hpcups 3.26.6
+HP Deskjet 995c, hpcups 3.26.6
+HP Deskjet d1300 Series, hpcups 3.26.6
+HP Deskjet d1400 Series, hpcups 3.26.6
+HP Deskjet d1500 Series, hpcups 3.26.6
+HP Deskjet d1600 Series, hpcups 3.26.6
+HP Deskjet d2300 Series, hpcups 3.26.6
+HP Deskjet d2400 Series, hpcups 3.26.6
+HP Deskjet d2500 Series, hpcups 3.26.6
+HP Deskjet d2600 Series, hpcups 3.26.6
+HP Deskjet d4100 Series, hpcups 3.26.6
+HP Deskjet d4200 Series, hpcups 3.26.6
+HP Deskjet d4300 Series, hpcups 3.26.6
+HP Deskjet d5500 Series, hpcups 3.26.6
+HP Deskjet d730, hpcups 3.26.6
+HP Deskjet f2100 Series, hpcups 3.26.6
+HP Deskjet f2200 Series, hpcups 3.26.6
+HP Deskjet f2400 Series, hpcups 3.26.6
+HP Deskjet f300 Series, hpcups 3.26.6
+HP Deskjet f4100 Series, hpcups 3.26.6
+HP Deskjet f4200 Series, hpcups 3.26.6
+HP Deskjet f4400 Series, hpcups 3.26.6
+HP Deskjet f4500 Series, hpcups 3.26.6
+HP Deskjet f735, hpcups 3.26.6
+HP Deskjet Ink Adv 2010 k010, hpcups 3.26.6
+HP Deskjet Ink Adv 2060 k110, hpcups 3.26.6
+HP Deskjet Ink Advant k109a-z, hpcups 3.26.6
+HP Deskjet Ink Advant k209a-z, hpcups 3.26.6
+HP Deskjet Plus 4100 Series, hpcups 3.26.6
+HP Deskjet Plus 6000 Series, hpcups 3.26.6
+HP Deskjet Plus 6400 Series, hpcups 3.26.6
+HP Deskjet Plus Ink Advantage 6100 Series, hpcups 3.26.6
+HP Deskjet Plus Ink Advantage 6500 Series, hpcups 3.26.6
+HP Envy 100 d410 Series, hpcups 3.26.6
+HP Envy 110 Series, hpcups 3.26.6
+HP Envy 120 Series, hpcups 3.26.6
+HP Envy 4500 Series, hpcups 3.26.6
+HP Envy 4510 Series, hpcups 3.26.6
+HP Envy 4520 Series, hpcups 3.26.6
+HP Envy 5000 Series, hpcups 3.26.6
+HP Envy 5530 Series, hpcups 3.26.6
+HP Envy 5540 Series, hpcups 3.26.6
+HP Envy 5640 Series, hpcups 3.26.6
+HP Envy 5660 Series, hpcups 3.26.6
+HP Envy 6000 Series, hpcups 3.26.6
+HP Envy 6100 Series, hpcups 3.26.6
+HP Envy 6100e Series, hpcups 3.26.6
+HP Envy 6400 Series, hpcups 3.26.6
+HP Envy 6500 Series, hpcups 3.26.6
+HP Envy 6500e Series, hpcups 3.26.6
+HP Envy 7640 Series, hpcups 3.26.6
+HP Envy 8000 Series, hpcups 3.26.6
+HP Envy Inspire 7200 Series, hpcups 3.26.6
+HP Envy Inspire 7900 Series, hpcups 3.26.6
+HP Envy Photo 6200 Series, hpcups 3.26.6
+HP Envy Photo 7100 Series, hpcups 3.26.6
+HP Envy Photo 7200 Series, hpcups 3.26.6
+HP Envy Photo 7800 Series, hpcups 3.26.6
+HP Envy Photo 7900 Series, hpcups 3.26.6
+HP Envy Pro 6400 Series, hpcups 3.26.6
+HP Ink Tank 110 Series, hpcups 3.26.6
+HP Ink Tank 310 Series, hpcups 3.26.6
+HP Ink Tank Wireless 410 Series, hpcups 3.26.6
+HP LaserJet 1010, hpcups 3.26.6
+HP LaserJet 1012, hpcups 3.26.6
+HP LaserJet 1015, hpcups 3.26.6
+HP LaserJet 1100, hpcups 3.26.6
+HP LaserJet 1100a, hpcups 3.26.6
+HP LaserJet 1100xi, hpcups 3.26.6
+HP LaserJet 1150, hpcups 3.26.6
+HP LaserJet 1160 Series, hpcups 3.26.6
+HP LaserJet 1200 pcl3, hpcups 3.26.6
+HP LaserJet 1200n, hpcups 3.26.6
+HP LaserJet 1220 pcl3, hpcups 3.26.6
+HP LaserJet 1220se, hpcups 3.26.6
+HP LaserJet 1300 pcl3, hpcups 3.26.6
+HP LaserJet 1300n pcl3, hpcups 3.26.6
+HP LaserJet 1300xi pcl3, hpcups 3.26.6
+HP LaserJet 1320 Series pcl3, hpcups 3.26.6
+HP LaserJet 1320, hpcups 3.26.6
+HP LaserJet 1320n, hpcups 3.26.6
+HP LaserJet 1320nw, hpcups 3.26.6
+HP LaserJet 1320tn, hpcups 3.26.6
+HP LaserJet 2100 Series pcl3, hpcups 3.26.6
+HP LaserJet 2200 Series, hpcups 3.26.6
+HP LaserJet 2300 Series, hpcups 3.26.6
+HP LaserJet 2410 pcl3, hpcups 3.26.6
+HP LaserJet 2420 pcl3, hpcups 3.26.6
+HP LaserJet 2430 pcl3, hpcups 3.26.6
+HP LaserJet 3015 pcl3, hpcups 3.26.6
+HP LaserJet 3020 pcl3, hpcups 3.26.6
+HP LaserJet 3030 pcl3, hpcups 3.26.6
+HP LaserJet 3050 pcl3, hpcups 3.26.6
+HP LaserJet 3052 pcl3, hpcups 3.26.6
+HP LaserJet 3055, hpcups 3.26.6
+HP LaserJet 3100, hpcups 3.26.6
+HP LaserJet 3150, hpcups 3.26.6
+HP LaserJet 3200, hpcups 3.26.6
+HP LaserJet 3300 3310 3320 pcl3, hpcups 3.26.6
+HP LaserJet 3330, hpcups 3.26.6
+HP LaserJet 3380 pcl3, hpcups 3.26.6
+HP LaserJet 3390 pcl3, hpcups 3.26.6
+HP LaserJet 3392, hpcups 3.26.6
+HP LaserJet 4 Plus pcl3, hpcups 3.26.6
+HP LaserJet 4000 Series pcl3, hpcups 3.26.6
+HP LaserJet 4050 Series pcl3, hpcups 3.26.6
+HP LaserJet 4100 MFP pcl3, hpcups 3.26.6
+HP LaserJet 4100 Series pcl3, hpcups 3.26.6
+HP LaserJet 4150 Series, hpcups 3.26.6
+HP LaserJet 4200 pcl3, hpcups 3.26.6
+HP LaserJet 4240 pcl3, hpcups 3.26.6
+HP LaserJet 4250 pcl3, hpcups 3.26.6
+HP LaserJet 4300 pcl3, hpcups 3.26.6
+HP LaserJet 4345 MFP pcl3, hpcups 3.26.6
+HP LaserJet 4350 pcl3, hpcups 3.26.6
+HP LaserJet 4l, hpcups 3.26.6
+HP LaserJet 4ml, hpcups 3.26.6
+HP LaserJet 4mp pcl3, hpcups 3.26.6
+HP LaserJet 4si pcl3, hpcups 3.26.6
+HP LaserJet 4v pcl3, hpcups 3.26.6
+HP LaserJet 5000 Series pcl3, hpcups 3.26.6
+HP LaserJet 5100 Series pcl3, hpcups 3.26.6
+HP LaserJet 5200 pcl3, hpcups 3.26.6
+HP LaserJet 5200l pcl3, hpcups 3.26.6
+HP LaserJet 5200lx, hpcups 3.26.6
+HP LaserJet 5l, hpcups 3.26.6
+HP LaserJet 5mp pcl3, hpcups 3.26.6
+HP LaserJet 5p, hpcups 3.26.6
+HP LaserJet 5si Mopier pcl3, hpcups 3.26.6
+HP LaserJet 5si pcl3, hpcups 3.26.6
+HP LaserJet 6l, hpcups 3.26.6
+HP LaserJet 6mp pcl3, hpcups 3.26.6
+HP LaserJet 6p, hpcups 3.26.6
+HP LaserJet 8000 Series pcl3, hpcups 3.26.6
+HP LaserJet 8100 MFP, hpcups 3.26.6
+HP LaserJet 8100 Series pcl3, hpcups 3.26.6
+HP LaserJet 8150 MFP, hpcups 3.26.6
+HP LaserJet 8150 Series pcl3, hpcups 3.26.6
+HP LaserJet 9000 MFP pcl3, hpcups 3.26.6
+HP LaserJet 9000 Series pcl3, hpcups 3.26.6
+HP LaserJet 9040 MFP pcl3, hpcups 3.26.6
+HP LaserJet 9040 pcl3, hpcups 3.26.6
+HP LaserJet 9050 MFP pcl3, hpcups 3.26.6
+HP LaserJet 9050 pcl3, hpcups 3.26.6
+HP LaserJet 9055mfp pcl3, hpcups 3.26.6
+HP LaserJet 9065mfp pcl3, hpcups 3.26.6
+HP LaserJet cm1411fn pcl3, hpcups 3.26.6
+HP LaserJet cm1412fn pcl3, hpcups 3.26.6
+HP LaserJet cm1413fn pcl3, hpcups 3.26.6
+HP LaserJet cm1415fn pcl3, hpcups 3.26.6
+HP LaserJet cm1415fnw pcl3, hpcups 3.26.6
+HP LaserJet cm1416fnw pcl3, hpcups 3.26.6
+HP LaserJet cm1417fnw pcl3, hpcups 3.26.6
+HP LaserJet cm1418fnw pcl3, hpcups 3.26.6
+HP LaserJet m1522nf MFP pcl3, hpcups 3.26.6
+HP LaserJet m1537dnf MFP pcl3, hpcups 3.26.6
+HP LaserJet m1538dnf MFP pcl3, hpcups 3.26.6
+HP LaserJet m1539dnf MFP pcl3, hpcups 3.26.6
+HP LaserJet m2727 MFP pcl3, hpcups 3.26.6
+HP LaserJet m3027 MFP pcl3, hpcups 3.26.6
+HP LaserJet m3035 MFP pcl3, hpcups 3.26.6
+HP LaserJet m4345 MFP pcl3, hpcups 3.26.6
+HP LaserJet m4349 MFP pcl3, hpcups 3.26.6
+HP LaserJet m5025 MFP pcl3, hpcups 3.26.6
+HP LaserJet m5035 MFP pcl3, hpcups 3.26.6
+HP LaserJet m5039 MFP pcl3, hpcups 3.26.6
+HP LaserJet m9040 MFP pcl3, hpcups 3.26.6
+HP LaserJet m9050 MFP pcl3, hpcups 3.26.6
+HP LaserJet m9059 MFP pcl3, hpcups 3.26.6
+HP LaserJet p2015 Series pcl3, hpcups 3.26.6
+HP LaserJet p2015d Series, hpcups 3.26.6
+HP LaserJet p2015dn Series, hpcups 3.26.6
+HP LaserJet p2015n Series, hpcups 3.26.6
+HP LaserJet p2015x Series, hpcups 3.26.6
+HP LaserJet p2055 pcl3, hpcups 3.26.6
+HP LaserJet p2055d pcl3, hpcups 3.26.6
+HP LaserJet p2055dn pcl3, hpcups 3.26.6
+HP LaserJet p2055x pcl3, hpcups 3.26.6
+HP LaserJet p3004 pcl3, hpcups 3.26.6
+HP LaserJet p3005 pcl3, hpcups 3.26.6
+HP LaserJet p3010 Series pcl3, hpcups 3.26.6
+HP LaserJet p4014, hpcups 3.26.6
+HP LaserJet p4014dn, hpcups 3.26.6
+HP LaserJet p4014n, hpcups 3.26.6
+HP LaserJet p4015, hpcups 3.26.6
+HP LaserJet p4015dn, hpcups 3.26.6
+HP LaserJet p4015n, hpcups 3.26.6
+HP LaserJet p4015tn, hpcups 3.26.6
+HP LaserJet p4015x, hpcups 3.26.6
+HP LaserJet p4515, hpcups 3.26.6
+HP LaserJet p4515n, hpcups 3.26.6
+HP LaserJet p4515tn, hpcups 3.26.6
+HP LaserJet p4515x, hpcups 3.26.6
+HP LaserJet p4515xm, hpcups 3.26.6
+HP Mopier 240 pcl3, hpcups 3.26.6
+HP Mopier 320 pcl3, hpcups 3.26.6
+HP Officejet 100 Mobile l411, hpcups 3.26.6
+HP Officejet 150 Mobile l511, hpcups 3.26.6
+HP Officejet 200 Mobile Series, hpcups 3.26.6
+HP Officejet 250 Mobile Series, hpcups 3.26.6
+HP Officejet 2620 Series, hpcups 3.26.6
+HP Officejet 3830 Series, hpcups 3.26.6
+HP Officejet 4000 k210, hpcups 3.26.6
+HP Officejet 4100 Series, hpcups 3.26.6
+HP Officejet 4105, hpcups 3.26.6
+HP Officejet 4115 Series, hpcups 3.26.6
+HP Officejet 4200 Series, hpcups 3.26.6
+HP Officejet 4255, hpcups 3.26.6
+HP Officejet 4300 Series, hpcups 3.26.6
+HP Officejet 4400 k410, hpcups 3.26.6
+HP Officejet 4500 g510a-f, hpcups 3.26.6
+HP Officejet 4500 g510g-m, hpcups 3.26.6
+HP Officejet 4500 g510n-z, hpcups 3.26.6
+HP Officejet 4500 k710, hpcups 3.26.6
+HP Officejet 4610 Series, hpcups 3.26.6
+HP Officejet 4620 Series, hpcups 3.26.6
+HP Officejet 4630 Series, hpcups 3.26.6
+HP Officejet 4650 Series, hpcups 3.26.6
+HP Officejet 5100 Series, hpcups 3.26.6
+HP Officejet 5200 Series, hpcups 3.26.6
+HP Officejet 5500 Series, hpcups 3.26.6
+HP Officejet 5600 Series, hpcups 3.26.6
+HP Officejet 5740 Series, hpcups 3.26.6
+HP Officejet 6000 e609a, hpcups 3.26.6
+HP Officejet 6000 e609n, hpcups 3.26.6
+HP Officejet 6100 Series, hpcups 3.26.6
+HP Officejet 6100, hpcups 3.26.6
+HP Officejet 6150 Series, hpcups 3.26.6
+HP Officejet 6200 Series, hpcups 3.26.6
+HP Officejet 6300 Series, hpcups 3.26.6
+HP Officejet 6500 e709a, hpcups 3.26.6
+HP Officejet 6500 e709n, hpcups 3.26.6
+HP Officejet 6500 e710a-f, hpcups 3.26.6
+HP Officejet 6500 e710n-z, hpcups 3.26.6
+HP Officejet 6600, hpcups 3.26.6
+HP Officejet 6700, hpcups 3.26.6
+HP Officejet 6800, hpcups 3.26.6
+HP Officejet 6950, hpcups 3.26.6
+HP Officejet 6960, hpcups 3.26.6
+HP Officejet 7000 e809a Series, hpcups 3.26.6
+HP Officejet 7100 Series, hpcups 3.26.6
+HP Officejet 7110 Series, hpcups 3.26.6
+HP Officejet 7200 Series, hpcups 3.26.6
+HP Officejet 7300 Series, hpcups 3.26.6
+HP Officejet 7400 Series, hpcups 3.26.6
+HP Officejet 7500 e910, hpcups 3.26.6
+HP Officejet 7510 Series, hpcups 3.26.6
+HP Officejet 7610 Series, hpcups 3.26.6
+HP Officejet 8010 Series, hpcups 3.26.6
+HP Officejet 8020 Series, hpcups 3.26.6
+HP Officejet 8040 Series, hpcups 3.26.6
+HP Officejet 8120 Series, hpcups 3.26.6
+HP Officejet 8120e Series, hpcups 3.26.6
+HP Officejet 8130 Series, hpcups 3.26.6
+HP Officejet 8130e Series, hpcups 3.26.6
+HP Officejet 8700, hpcups 3.26.6
+HP Officejet 9010 Series, hpcups 3.26.6
+HP Officejet 9100 Series pcl3, hpcups 3.26.6
+HP Officejet 9120 Series, hpcups 3.26.6
+HP Officejet 9120e Series, hpcups 3.26.6
+HP Officejet D Series, hpcups 3.26.6
+HP Officejet g55, hpcups 3.26.6
+HP Officejet g55xi, hpcups 3.26.6
+HP Officejet g85, hpcups 3.26.6
+HP Officejet g85xi, hpcups 3.26.6
+HP Officejet g95, hpcups 3.26.6
+HP Officejet h470, hpcups 3.26.6
+HP Officejet j3500 Series, hpcups 3.26.6
+HP Officejet j3600 Series, hpcups 3.26.6
+HP Officejet j4500 Series, hpcups 3.26.6
+HP Officejet j4660 Series, hpcups 3.26.6
+HP Officejet j4680 Series, hpcups 3.26.6
+HP Officejet j5500 Series, hpcups 3.26.6
+HP Officejet j5700 Series, hpcups 3.26.6
+HP Officejet j6400 Series, hpcups 3.26.6
+HP Officejet k60, hpcups 3.26.6
+HP Officejet k60xi, hpcups 3.26.6
+HP Officejet k7100, hpcups 3.26.6
+HP Officejet k80, hpcups 3.26.6
+HP Officejet k80xi, hpcups 3.26.6
+HP Officejet Lx, hpcups 3.26.6
+HP Officejet Pro 1150c, hpcups 3.26.6
+HP Officejet Pro 1170c Series, hpcups 3.26.6
+HP Officejet Pro 3610, hpcups 3.26.6
+HP Officejet Pro 3620, hpcups 3.26.6
+HP Officejet Pro 6230, hpcups 3.26.6
+HP Officejet Pro 6830, hpcups 3.26.6
+HP Officejet Pro 6960, hpcups 3.26.6
+HP Officejet Pro 6970, hpcups 3.26.6
+HP Officejet Pro 7720 Series, hpcups 3.26.6
+HP Officejet Pro 7730 Series, hpcups 3.26.6
+HP Officejet Pro 7740 Series, hpcups 3.26.6
+HP Officejet Pro 8000 a809, hpcups 3.26.6
+HP Officejet Pro 8020 Series, hpcups 3.26.6
+HP Officejet Pro 8030 Series, hpcups 3.26.6
+HP Officejet Pro 8100, hpcups 3.26.6
+HP Officejet Pro 8120 Series, hpcups 3.26.6
+HP Officejet Pro 8120e Series, hpcups 3.26.6
+HP Officejet Pro 8130 Series, hpcups 3.26.6
+HP Officejet Pro 8130e Series, hpcups 3.26.6
+HP Officejet Pro 8500 a909a, hpcups 3.26.6
+HP Officejet Pro 8500 a909g, hpcups 3.26.6
+HP Officejet Pro 8500 a909n, hpcups 3.26.6
+HP Officejet Pro 8500 a910, hpcups 3.26.6
+HP Officejet Pro 8600, hpcups 3.26.6
+HP Officejet Pro 8610, hpcups 3.26.6
+HP Officejet Pro 8620, hpcups 3.26.6
+HP Officejet Pro 8630, hpcups 3.26.6
+HP Officejet Pro 8640, hpcups 3.26.6
+HP Officejet Pro 8660, hpcups 3.26.6
+HP Officejet Pro 8710, hpcups 3.26.6
+HP Officejet Pro 8720, hpcups 3.26.6
+HP Officejet Pro 9010 Series, hpcups 3.26.6
+HP Officejet Pro 9020 Series, hpcups 3.26.6
+HP Officejet Pro 9110 Series, hpcups 3.26.6
+HP Officejet Pro 9110b Series, hpcups 3.26.6
+HP Officejet Pro 9110e Series, hpcups 3.26.6
+HP Officejet Pro 9120 Series, hpcups 3.26.6
+HP Officejet Pro 9120b Series, hpcups 3.26.6
+HP Officejet Pro 9120e Series, hpcups 3.26.6
+HP Officejet Pro 9130 Series, hpcups 3.26.6
+HP Officejet Pro 9130b Series, hpcups 3.26.6
+HP Officejet Pro 9130e Series, hpcups 3.26.6
+HP Officejet Pro 9720 Series, hpcups 3.26.6
+HP Officejet Pro 9720e Series, hpcups 3.26.6
+HP Officejet Pro 9730 Series, hpcups 3.26.6
+HP Officejet Pro 9730e Series, hpcups 3.26.6
+HP Officejet Pro k5300, hpcups 3.26.6
+HP Officejet Pro k5400, hpcups 3.26.6
+HP Officejet Pro k550, hpcups 3.26.6
+HP Officejet Pro k850, hpcups 3.26.6
+HP Officejet Pro k8600, hpcups 3.26.6
+HP Officejet Pro l7300, hpcups 3.26.6
+HP Officejet Pro l7400, hpcups 3.26.6
+HP Officejet Pro l7500, hpcups 3.26.6
+HP Officejet Pro l7600, hpcups 3.26.6
+HP Officejet Pro l7700, hpcups 3.26.6
+HP Officejet r40, hpcups 3.26.6
+HP Officejet r40xi, hpcups 3.26.6
+HP Officejet r45, hpcups 3.26.6
+HP Officejet r60, hpcups 3.26.6
+HP Officejet r65, hpcups 3.26.6
+HP Officejet r80, hpcups 3.26.6
+HP Officejet r80xi, hpcups 3.26.6
+HP Officejet Series 300, hpcups 3.26.6
+HP Officejet Series 310, hpcups 3.26.6
+HP Officejet Series 320, hpcups 3.26.6
+HP Officejet Series 330, hpcups 3.26.6
+HP Officejet Series 350, hpcups 3.26.6
+HP Officejet Series 520, hpcups 3.26.6
+HP Officejet Series 570, hpcups 3.26.6
+HP Officejet Series 580, hpcups 3.26.6
+HP Officejet Series 590, hpcups 3.26.6
+HP Officejet Series 600, hpcups 3.26.6
+HP Officejet Series 610, hpcups 3.26.6
+HP Officejet Series 630, hpcups 3.26.6
+HP Officejet Series 700, hpcups 3.26.6
+HP Officejet Series 710, hpcups 3.26.6
+HP Officejet Series 720, hpcups 3.26.6
+HP Officejet Series 725, hpcups 3.26.6
+HP Officejet T Series, hpcups 3.26.6
+HP Officejet v30, hpcups 3.26.6
+HP Officejet v40, hpcups 3.26.6
+HP Officejet v40xi, hpcups 3.26.6
+HP Officejet v45, hpcups 3.26.6
+HP Officejet, hpcups 3.26.6
+HP Photosmart 100, hpcups 3.26.6
+HP Photosmart 1115, hpcups 3.26.6
+HP Photosmart 1215, hpcups 3.26.6
+HP Photosmart 1218, hpcups 3.26.6
+HP Photosmart 130, hpcups 3.26.6
+HP Photosmart 1315, hpcups 3.26.6
+HP Photosmart 140 Series, hpcups 3.26.6
+HP Photosmart 230, hpcups 3.26.6
+HP Photosmart 240 Series, hpcups 3.26.6
+HP Photosmart 2570 Series, hpcups 3.26.6
+HP Photosmart 2600 Series, hpcups 3.26.6
+HP Photosmart 2700 Series, hpcups 3.26.6
+HP Photosmart 3100 Series, hpcups 3.26.6
+HP Photosmart 320 Series, hpcups 3.26.6
+HP Photosmart 3200 Series, hpcups 3.26.6
+HP Photosmart 330 Series, hpcups 3.26.6
+HP Photosmart 3300 Series, hpcups 3.26.6
+HP Photosmart 370 Series, hpcups 3.26.6
+HP Photosmart 380 Series, hpcups 3.26.6
+HP Photosmart 420 Series, hpcups 3.26.6
+HP Photosmart 470 Series, hpcups 3.26.6
+HP Photosmart 5510 Series, hpcups 3.26.6
+HP Photosmart 5510d Series, hpcups 3.26.6
+HP Photosmart 5520 Series, hpcups 3.26.6
+HP Photosmart 6510 Series, hpcups 3.26.6
+HP Photosmart 6520 Series, hpcups 3.26.6
+HP Photosmart 7200 Series, hpcups 3.26.6
+HP Photosmart 7345, hpcups 3.26.6
+HP Photosmart 7400 Series, hpcups 3.26.6
+HP Photosmart 7510 Series, hpcups 3.26.6
+HP Photosmart 7520 Series, hpcups 3.26.6
+HP Photosmart 7550, hpcups 3.26.6
+HP Photosmart 7600 Series, hpcups 3.26.6
+HP Photosmart 7700 Series, hpcups 3.26.6
+HP Photosmart 7800 Series, hpcups 3.26.6
+HP Photosmart 7900 Series, hpcups 3.26.6
+HP Photosmart 8000 Series, hpcups 3.26.6
+HP Photosmart 8100 Series, hpcups 3.26.6
+HP Photosmart 8200 Series, hpcups 3.26.6
+HP Photosmart 8400 Series, hpcups 3.26.6
+HP Photosmart 8700 Series, hpcups 3.26.6
+HP Photosmart a310 Series, hpcups 3.26.6
+HP Photosmart a320 Series, hpcups 3.26.6
+HP Photosmart a430 Series, hpcups 3.26.6
+HP Photosmart a440 Series, hpcups 3.26.6
+HP Photosmart a510 Series, hpcups 3.26.6
+HP Photosmart a520 Series, hpcups 3.26.6
+HP Photosmart a610 Series, hpcups 3.26.6
+HP Photosmart a620 Series, hpcups 3.26.6
+HP Photosmart a710 Series, hpcups 3.26.6
+HP Photosmart a820 Series, hpcups 3.26.6
+HP Photosmart b010 Series, hpcups 3.26.6
+HP Photosmart b109a Series, hpcups 3.26.6
+HP Photosmart b110 Series, hpcups 3.26.6
+HP Photosmart b8500 Series, hpcups 3.26.6
+HP Photosmart c309a Series, hpcups 3.26.6
+HP Photosmart c3100 Series, hpcups 3.26.6
+HP Photosmart c4100 Series, hpcups 3.26.6
+HP Photosmart c4200 Series, hpcups 3.26.6
+HP Photosmart c4340 Series, hpcups 3.26.6
+HP Photosmart c4380 Series, hpcups 3.26.6
+HP Photosmart c4400 Series, hpcups 3.26.6
+HP Photosmart c4500 Series, hpcups 3.26.6
+HP Photosmart c4600 Series, hpcups 3.26.6
+HP Photosmart c4700 Series, hpcups 3.26.6
+HP Photosmart c5100 Series, hpcups 3.26.6
+HP Photosmart c5200 Series, hpcups 3.26.6
+HP Photosmart c5300 Series, hpcups 3.26.6
+HP Photosmart c5500 Series, hpcups 3.26.6
+HP Photosmart c6100 Series, hpcups 3.26.6
+HP Photosmart c6200 Series, hpcups 3.26.6
+HP Photosmart c6300 Series, hpcups 3.26.6
+HP Photosmart c7100 Series, hpcups 3.26.6
+HP Photosmart c7200 Series, hpcups 3.26.6
+HP Photosmart c8100 Series, hpcups 3.26.6
+HP Photosmart d110 Series, hpcups 3.26.6
+HP Photosmart d5060 Series, hpcups 3.26.6
+HP Photosmart d5100 Series, hpcups 3.26.6
+HP Photosmart d5300 Series, hpcups 3.26.6
+HP Photosmart d5400 Series, hpcups 3.26.6
+HP Photosmart d6100 Series, hpcups 3.26.6
+HP Photosmart d7100 Series, hpcups 3.26.6
+HP Photosmart d7200 Series, hpcups 3.26.6
+HP Photosmart d7300 Series, hpcups 3.26.6
+HP Photosmart d7400 Series, hpcups 3.26.6
+HP Photosmart d7500 Series, hpcups 3.26.6
+HP Photosmart Estn c510 Series, hpcups 3.26.6
+HP Photosmart Ink Adv k510, hpcups 3.26.6
+HP Photosmart p1000, hpcups 3.26.6
+HP Photosmart p1100, hpcups 3.26.6
+HP Photosmart Plus b209a-m, hpcups 3.26.6
+HP Photosmart Plus b210 Series, hpcups 3.26.6
+HP Photosmart Prem c310 Series, hpcups 3.26.6
+HP Photosmart Prem c410 Series, hpcups 3.26.6
+HP Photosmart Prem-web c309n-s, hpcups 3.26.6
+HP Photosmart Premium c309g-m, hpcups 3.26.6
+HP Photosmart Pro b8300 Series, hpcups 3.26.6
+HP Photosmart Pro b8800 Series, hpcups 3.26.6
+HP Photosmart Wireless b109n-z, hpcups 3.26.6
+HP Printer Scanner Copier 300, hpcups 3.26.6
+HP PSC 1000 Series, hpcups 3.26.6
+HP PSC 1100 Series, hpcups 3.26.6
+HP PSC 1200 Series, hpcups 3.26.6
+HP PSC 1300 Series, hpcups 3.26.6
+HP PSC 1310 Series, hpcups 3.26.6
+HP PSC 1358 Series, hpcups 3.26.6
+HP PSC 1400 Series, hpcups 3.26.6
+HP PSC 1500 Series, hpcups 3.26.6
+HP PSC 1600 Series, hpcups 3.26.6
+HP PSC 2100 Series, hpcups 3.26.6
+HP PSC 2150 Series, hpcups 3.26.6
+HP PSC 2170 Series, hpcups 3.26.6
+HP PSC 2200 Series, hpcups 3.26.6
+HP PSC 2210 Series, hpcups 3.26.6
+HP PSC 2300 Series, hpcups 3.26.6
+HP PSC 2350 Series, hpcups 3.26.6
+HP PSC 2400 Series, hpcups 3.26.6
+HP PSC 2500 Series, hpcups 3.26.6
+HP PSC 500, hpcups 3.26.6
+HP PSC 720, hpcups 3.26.6
+HP PSC 750, hpcups 3.26.6
+HP PSC 750xi, hpcups 3.26.6
+HP PSC 760, hpcups 3.26.6
+HP PSC 780, hpcups 3.26.6
+HP PSC 780xi, hpcups 3.26.6
+HP PSC 900 Series, hpcups 3.26.6
+HP PSC 920, hpcups 3.26.6
+HP PSC 950, hpcups 3.26.6
+HP PSC 950vr, hpcups 3.26.6
+HP PSC 950xi, hpcups 3.26.6
+HP Smart Tank 210-220 Series, hpcups 3.26.6
+HP Smart Tank 350 Series, hpcups 3.26.6
+HP Smart Tank 500 Series, hpcups 3.26.6
+HP Smart Tank 510 Series, hpcups 3.26.6
+HP Smart Tank 5100 Series, hpcups 3.26.6
+HP Smart Tank 520 540 Series, hpcups 3.26.6
+HP Smart Tank 530 Series, hpcups 3.26.6
+HP Smart Tank 580-590 Series, hpcups 3.26.6
+HP Smart Tank 6000 Series, hpcups 3.26.6
+HP Smart Tank 610 Series, hpcups 3.26.6
+HP Smart Tank 660-670 Series, hpcups 3.26.6
+HP Smart Tank 7000 Series, hpcups 3.26.6
+HP Smart Tank 710-720 Series, hpcups 3.26.6
+HP Smart Tank 7300 Series, hpcups 3.26.6
+HP Smart Tank 750 Series, hpcups 3.26.6
+HP Smart Tank 7600 Series, hpcups 3.26.6
+HP Smart Tank 790 Series, hpcups 3.26.6
+HP Smart Tank Plus 550 Series, hpcups 3.26.6
+HP Smart Tank Plus 570 Series, hpcups 3.26.6
+HP Smart Tank Plus 650 Series, hpcups 3.26.6
+HP Smart Tank Wireless 450 Series, hpcups 3.26.6
+HP Tango, hpcups 3.26.6

@@ -1,0 +1,66 @@
+#!/bin/sh
+# Runs as root after the payload is installed.
+#  1. restart cupsd so the new drivers are visible without a reboot
+#  2. point existing HPLIP queues at the freshly installed PPDs
+#  3. create a queue for every connected HP USB printer we have a driver for
+#     and that has no queue yet
+log() { echo "hplip-postinstall: $*"; }   # ends up in /var/log/install.log
+
+PREFIX=/Library/Printers/HPLIP
+PPD_DIR=/Library/Printers/PPDs/Contents/Resources/HPLIP
+PPD_DIR_REL=Library/Printers/PPDs/Contents/Resources/HPLIP   # as lpinfo -m prints it
+
+chown -R root:wheel "$PREFIX"
+chmod 755 "$PREFIX/filter/hpcups"
+
+# Without this, one Mac only offered the driver (and auto-created the printer)
+# after a reboot. Jobs that are printing get requeued by cupsd, not lost.
+log "restarting cupsd"
+/bin/launchctl kickstart -k system/org.cups.cupsd 2>/dev/null || true
+i=0
+until /usr/bin/lpstat -r >/dev/null 2>&1 || [ $i -ge 30 ]; do sleep 1; i=$((i + 1)); done
+log "cupsd up after ${i}s; HPLIP drivers listed: $(/usr/sbin/lpinfo -m 2>/dev/null | grep -c "$PPD_DIR_REL/")"
+
+# 2. Refresh queues that already use our filter, matched by the PPD's file name.
+for q in $(/usr/bin/lpstat -e 2>/dev/null); do
+    qppd="/private/etc/cups/ppd/$q.ppd"
+    grep -q "$PREFIX/filter/hpcups" "$qppd" 2>/dev/null || continue
+    pc=$(sed -n 's/^\*PCFileName: "\(.*\)"/\1/p' "$qppd" | tr 'A-Z' 'a-z')
+    if [ -n "$pc" ] && [ -f "$PPD_DIR/$pc.gz" ]; then
+        log "refreshing $q -> $pc.gz"
+        /usr/sbin/lpadmin -p "$q" -P "$PPD_DIR/$pc.gz" 2>/dev/null || true
+    fi
+done
+
+# 3. Set up connected HP USB printers. USB can take a moment after the restart.
+devices=""
+for try in 1 2 3; do
+    devices=$(/usr/sbin/lpinfo -l --include-schemes usb -v 2>/dev/null)
+    echo "$devices" | grep -Eq '^Device: uri = usb://(HP|Hewlett-Packard)/' && break
+    sleep 2
+done
+
+echo "$devices" | /usr/bin/awk '
+    /^Device: uri = / { uri = $4 }
+    /^ *make-and-model = / { sub(/^ *make-and-model = /, ""); mm = $0 }
+    /^ *device-id = / { sub(/^ *device-id = /, ""); if (uri ~ /^usb:\/\/(HP|Hewlett-Packard)\//) print uri "\t" mm "\t" $0 }
+' | while IFS="$(printf '\t')" read -r uri mm devid; do
+    if /usr/bin/lpstat -v 2>/dev/null | grep -qF "$uri"; then
+        log "$mm already has a queue"
+        continue
+    fi
+    ppd=$(/usr/sbin/lpinfo -m --device-id "$devid" 2>/dev/null | awk -v d="$PPD_DIR_REL/" 'index($1, d) == 1 { print $1; exit }')
+    if [ -z "$ppd" ]; then
+        log "no HPLIP driver for $mm ($devid)"
+        continue
+    fi
+    # Queue name from the model: "HP DeskJet 2130 series" -> HP_DeskJet_2130
+    name=$(echo "$mm" | sed -e 's/ [Ss]eries$//' -e 's/^Hewlett-Packard /HP /' -e 's/[^A-Za-z0-9]/_/g' -e 's/__*/_/g' -e 's/_$//')
+    case "$name" in HP_*) ;; *) name="HP_$name" ;; esac
+    log "creating queue $name for $mm using $ppd"
+    /usr/sbin/lpadmin -p "$name" -E -v "$uri" -m "$ppd" -D "$mm" -L "USB" \
+        -o printer-is-shared=false 2>&1 | grep -v deprecated
+    /usr/sbin/cupsenable "$name" 2>/dev/null
+    /usr/sbin/cupsaccept "$name" 2>/dev/null
+done
+exit 0
